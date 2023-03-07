@@ -1,6 +1,4 @@
-// Zikos Spyridon 1084581
-// Kyriakoulopoulos Kallinikos 1084583
-// Makris Orestis-Antonis 1084516
+
 
 /* header files */
 #include "Procedures_Queue.h"
